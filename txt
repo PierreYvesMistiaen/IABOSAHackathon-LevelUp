@@ -1,1 +1,0 @@
-curl http://10.99.225.200:1234/api/v1/models
